@@ -4,8 +4,4 @@ An implementation of the paper: MixSignGraph: MixSignGraph: A Sign Sequence is W
 
 
 
-## Weights  
-
-We make some imporvments of our code, and provide newest checkpoionts and better performance.
-
-To do
+ The code is not prepared yet.
