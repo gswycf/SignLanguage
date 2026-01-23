@@ -5,7 +5,7 @@ An implementation of the paper: SignGraph: A Sign Sequence is Worth Graphs of No
 
 An implementation of the paper: MixSignGraph: MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes. (neurIPS 2025) [[paper]](https://openreview.net/forum?id=YjZYMHvlRs)
 
-The code has not prepared yet. Please use with caution.
+
  
 
 ## Data Preparation
