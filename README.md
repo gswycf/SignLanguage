@@ -7,7 +7,7 @@
   <img src="doc/MixSignGraph_intro.png" alt="Overview" width="440">
 </p>
 
-<p align="center"><em>A simpler baseline implementation and visual overview for SignGraph / MixSignGraph.</em></p>
+<p align="center"><em>A visual overview for SignGraph / MixSignGraph.</em></p>
 
 <p align="center">
   <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf"><img src="https://img.shields.io/badge/paper-CVPR%202024-blue" alt="CVPR 2024 paper"></a>
@@ -42,8 +42,8 @@ Why this repo?
 
 ## Highlights
 
-- SignGraph (CVPR 2024): Represent sign sequences as graphs of nodes to capture spatial-temporal relations.
-- MixSignGraph (NeurIPS 2025): Mixed-graph extension with improvements for translation and robustness.
+- SignGraph (CVPR 2024): SignGraph: A Sign Sequence is Worth Graphs of Nodes
+- MixSignGraph (NeurIPS 2025): MixSignGraph: MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes
 
 ## Requirements
 
