@@ -175,21 +175,4 @@ def resnet34(**kwargs):
     model.load_state_dict(checkpoint, strict=False)
     return model
 
-
-def test():
-    #        batch, temp, channel, height, width  0,2,1,3,4
-    from thop import profile
-    net = resnet34()
-    y = torch.randn( 1, 3,10, 224, 224)
-    flops, params = profile(net, inputs=(y, ))
-    print(y.size(), flops/(1000**3), params/(1000**2))
-    t1 = time.time()
-    with torch.no_grad():
-        y = torch.randn(20, 3, 100, 224, 224)
-    print(1/((time.time()-t1)/20))
-
-
-
-if __name__ == '__main__':
-    test()
-# test()
+ 
