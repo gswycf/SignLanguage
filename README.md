@@ -138,14 +138,6 @@ Tip: Use the provided YAML configs under `MixSignGraph/configs/` or `SignGraph/c
 If you use this repository in your work, please cite the associated papers:
 
 ```latex
-@inproceedings{gan2026CVPR,
-  title={Learning Effective Sign Features without Text for Gloss-free Sign Language Translation},
-  author={Gan, Shiwei and Liu, Xiao, and Yin, Yafeng and Liu Nan and Liu Kuizhuang and Desibieer, Tuerdaken and Jiang, Zhiwei and Xie, Lei and Lu, Sanglu and Wen, Hongkai},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Highlight)},
-  year={2025}
-}
-
-
 @inproceedings{gan2025mixsigngraph,
   title={MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes},
   author={Gan, Shiwei and Yin, Yafeng and Jiang, Zhiwei and Xie, Lei and Lu, Sanglu and Wen, Hongkai},
